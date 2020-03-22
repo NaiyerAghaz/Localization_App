@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "2Hy-dN-5Re"; */
+"2Hy-dN-5Re.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Enter Your Name"; ObjectID = "8Il-ul-vPU"; */
+"8Il-ul-vPU.placeholder" = "Enter Your Name";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ERE-mo-llG"; */
+"ERE-mo-llG.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "Enter your Email"; ObjectID = "Fqp-iB-Aiq"; */
+"Fqp-iB-Aiq.placeholder" = "Enter your Email";
+
+/* Class = "UITextField"; placeholder = "Enter your Phone"; ObjectID = "UaY-gf-26z"; */
+"UaY-gf-26z.placeholder" = "Enter your Phone";
+
+/* Class = "UIBarButtonItem"; title = "Setting"; ObjectID = "YWJ-zf-TuU"; */
+"YWJ-zf-TuU.title" = "Setting";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Zyc-F5-1VZ"; */
+"Zyc-F5-1VZ.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Welcome to Localization"; ObjectID = "aqj-Mw-5wC"; */
+"aqj-Mw-5wC.text" = "Welcome to Localization";
+
+/* Class = "UINavigationItem"; title = "Localization"; ObjectID = "cjz-XR-SCE"; */
+"cjz-XR-SCE.title" = "Localization";
+
+/* Class = "UILabel"; text = "Qaulification"; ObjectID = "eVl-SS-Bok"; */
+"eVl-SS-Bok.text" = "Qaulification";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "mzf-YA-YYa"; */
+"mzf-YA-YYa.text" = "Phone";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "nDr-bL-b2j"; */
+"nDr-bL-b2j.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "q7w-lE-6JM"; */
+"q7w-lE-6JM.text" = "Address";
+
+/* Class = "UITextField"; placeholder = "Enter Your Qualification"; ObjectID = "rEG-rw-8ov"; */
+"rEG-rw-8ov.placeholder" = "Enter Your Qualification";
+
+/* Class = "UITextField"; placeholder = "Enter Your Address"; ObjectID = "ykx-al-wfJ"; */
+"ykx-al-wfJ.placeholder" = "Enter Your Address";
